@@ -1,7 +1,7 @@
 # ayesha-munir-profile-README.md
 Ayesha Munir’s portfolio: IoT projects, software development, research abstracts, and technical expertise.
 <br>
-# Ayesha Munir
+# 👋 Hi, I'm Ayesha Munir
 
 **Master’s Student | Mechanical System Engineering | Gyeongsang National University, South Korea**  
 Research: Low-emission diesel/pHCCI engines, turbulent premixed flame propagation  
@@ -10,17 +10,25 @@ Research: Low-emission diesel/pHCCI engines, turbulent premixed flame propagatio
 
 ## 📚 Education
 
-- **Gyeongsang National University, South Korea** – M.S. Mechanical System Engineering (Ongoing)  
-- **The Women University, Multan, Pakistan** – B.S. Information Technology, GPA: 3.62/4.00  
-- **College of Information Technology & Commerce, Pakistan** – Diploma in IT, Grade: A+  
+- 🎓 **Gyeongsang National University, South Korea** – M.S. Mechanical System Engineering (Ongoing)  
+- 🎓 **The Women University, Multan, Pakistan** – B.S. Information Technology, GPA: 3.62/4.00  
+- 🎓 **College of Information Technology & Commerce, Pakistan** – Diploma in IT, Grade: A+  
 
 ---
 
 ## 💻 Projects
 
-- [IoT Home Automation System](projects/iot-home-automation)  
-- [Online Shopping App & Website](projects/online-shopping-app)  
-- [Cybersecurity Intelligent Mining](projects/cybersecurity-intelligent-mining)  
+- 🏠 [**IoT Home Automation System**](projects/iot-home-automation)  
+  Real-time monitoring with ESP32, sensors, and mobile app integration.  
+  ![C](https://img.shields.io/badge/Language-C-blue) ![Arduino](https://img.shields.io/badge/Arduino-lightgrey)
+
+- 🛒 [**Online Shopping App & Website**](projects/online-shopping-app)  
+  Full-stack platform for online shopping and delivery management.  
+  ![Node.js](https://img.shields.io/badge/Node.js-green) ![JSON](https://img.shields.io/badge/JSON-orange)
+
+- 🛡️ [**Cybersecurity Intelligent Mining**](projects/cybersecurity-intelligent-mining)  
+  Abstract and analysis of intelligent threat detection methods.  
+  ![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-red)
 
 ---
 
@@ -48,8 +56,11 @@ Research: Low-emission diesel/pHCCI engines, turbulent premixed flame propagatio
 
 ---
 
-## 🔗 Connect with Me
+## ⚡ Extracurricular Activities
 
-- [LinkedIn](linkedin.com/in/ayeshamunir789)  
-- [Email](mailto:ayeshamunir7374@gmail.com)
+- 🏏 Inter-University Girls Cricket Championship, 2021–2022  
+- 🏸 Badminton competitions at The Women University, Multan  
+
+
+
 
