@@ -61,6 +61,9 @@ Research: Low-emission diesel/pHCCI engines, turbulent premixed flame propagatio
 - 🏏 Inter-University Girls Cricket Championship, 2021–2022  
 - 🏸 Badminton competitions at The Women University, Multan  
 
+---
 
+## 📊 GitHub Stats
 
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayesha Munir&show_icons=true&theme=radical)
 
